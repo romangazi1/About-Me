@@ -23,4 +23,4 @@ LinkedIn: www.linkedin.com/in/roman-hossen
 😄 Pronouns:
 He/Him
 
-⚡ Fun fact: I have 2 years of experience in Flutter, and I’m also freelancing to turn UI designs into functional Flutter code!
+⚡ Fun fact: I have 2 + years of experience in Flutter, and I’m also freelancing to turn UI designs into functional Flutter code!
